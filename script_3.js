@@ -1,3 +1,5 @@
+// la pyramide
+
 floor = prompt("Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?")
 
 current_floor = 0

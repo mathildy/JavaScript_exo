@@ -1,3 +1,5 @@
+// calcul du factoriel
+
 let factorial = "";
 factorial = prompt("De quel nombre veux-tu calculer la factorielle?"); 
 

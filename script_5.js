@@ -66,7 +66,7 @@ console.log(`8. Trouve le livre avec l'ID: 873495`); {
     }
 
 
-// Supprime le livre avec l'ID: 133712
+// supprime le livre avec l'ID: 133712
 
 console.log(`9. Supprime le livre avec l'ID: 133712`); {
     for(let find in books) {
@@ -76,7 +76,7 @@ console.log(`9. Supprime le livre avec l'ID: 133712`); {
 }
 
 
-// Trie les livres par ordre alphabétique (sans celui avec l'ID 133712 car il est supprimé).
+// trie les livres par ordre alphabétique (sans celui avec l'ID 133712 car il est supprimé).
 
 console.log(`10. Trie les livres par ordre alphabétique`); {
     for( let find in books) {
